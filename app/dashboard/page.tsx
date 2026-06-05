@@ -68,9 +68,9 @@ async function DashboardContent() {
 
   let data: DashboardData = {
     student: {
-      name: 'Alex Johnson',
-      email: 'alex@university.edu',
-      avatar: 'AJ',
+      name: 'Anurag Kushwah',
+      email: 'anuragkofficial21@gmail.com',
+      avatar: 'AK',
     },
     gpa: 3.82,
     courses: [],
